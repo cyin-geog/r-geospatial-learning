@@ -3,11 +3,13 @@
 ## Data
 
 The data used in these exercises comes from the workshop.
-**Geospatial Data Carpentry for Urbanism** (Carpentries Incubator),
+**Geospatial Data Carpentry for Urbanism** (Carpentries Incubator).
+
+The data files are not included in this repository.
 Here is where the data can be downloaded: https://carpentries-incubator.github.io/r-geospatial-urban/index.html
 
-Extract the downloaded files into a folder named `data`.
-The data files are not included in this repository.
+Extract the downloaded files into a folder named `data` 
+inside this project’s main folder.
 
 Referencing the "Organising the working directory" under "Project management in RStudio"
 in https://carpentries-incubator.github.io/r-geospatial-urban/01-intro-to-r.html

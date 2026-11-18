@@ -18,7 +18,7 @@ end-to-end geospatial project.
 
 | Lesson | Episodes | Topic | Status |
 | --- | --- | --- | --- |
-| 1 | 1-4 | Introduction to R (review, I covered much of this Nov 9-10) | ☐ |
+| 1 | 1-4 | Introduction to R (packages, variables, call functions) | ☐ |
 | 2 | 5-9 | Vector data with `sf` | ☐ |
 | 3 | 10-14 | Raster data with `terra` | ☐ |
 | 4 | 15-16 | Practical GIS operations with OpenStreetMap data | ☐ |
